@@ -9,7 +9,7 @@
 
 <h1>About Me! </h1>
 
-- 🏫: I am studying software engineering at Tecnológico de Monterrey
+- 🏫: I am studying software engineering at ITESM
 - 🔭: I’m currently working on many small projects.
 - 🧠: I’m currently learning React application development and better database management
 - 🤔: I love learning from people! 
